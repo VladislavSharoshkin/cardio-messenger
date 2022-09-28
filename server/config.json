@@ -1,0 +1,8 @@
+{
+  "database": "host=127.0.0.1 user=postgres password=postgres port=5432 dbname=postgres sslmode=disable",
+  "debug": true,
+  "ip": "62.183.103.210",
+  "push_server": "62.183.103.210:27991",
+  "registration": true,
+  "user_staff_permission": false
+}
